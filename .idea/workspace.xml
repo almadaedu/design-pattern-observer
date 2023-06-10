@@ -46,6 +46,11 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\edual\OneDrive\Área de Trabalho\DesignPattern\observer\assets" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.ObserverTeste">
     <configuration name="ObserverTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="observer" />
